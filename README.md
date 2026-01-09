@@ -32,4 +32,4 @@ hqfzij xmfssts@%$&
 
 ## How to Run
 ```bash
-python caesar_cipher.py
+python main.py
